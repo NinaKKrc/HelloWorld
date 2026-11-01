@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello World!</string>
+    <string name="bt_name">Log in</string>
+    <string name="tV3_name">Mobile application!</string>
+    <string name="tV_name">Hello World!</string>
+    <string name="rB_name">Male</string>
+    <string name="rB2_name">Female</string>
+    <string name="cB_name">Strinjam se s pogoji uporabe</string>
+</resources>
