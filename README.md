@@ -38,4 +38,6 @@ V pogledu Design elemente urejamo vizualno, v XML pa neposredno spreminjamo kodo
 - Java
 - XML
 
-**Avtorica:** Nina Katarina Krč
+<img width="280" height="500" alt="android_app_readme_small" src="https://github.com/user-attachments/assets/df4d0b82-9e75-4aef-8556-324dd0815cb3" />
+
+
